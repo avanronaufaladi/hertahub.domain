@@ -1,7 +1,22 @@
-Frontend Web Repository
+# HertaHub 
+## Frontend Web Repository
+
+## Kelompok 1
+- Naufal Muhammad Daffa 166
+- Ridwan Fahmidina Pamungkas 185
+- Arthur Gerald Arya Wirayudha 196
+- Afnan Asilah Prayogi 153
+- Galang Yudha 176
+- Avanro Naufal 199
+- Ardhian Fadli Rabbani 156
+- Rangga ramadhana 155
 
 ## Preview
 ![Preview](/images/IMG-20250703-WA0001.jpg)
+![Preview](/images/IMG-20250703-WA0002.jpg)
+![Preview](/images/IMG-20250703-WA0003.jpg)
+![Preview](/images/IMG-20250703-WA0004.jpg)
+![Preview](/images/IMG-20250703-WA0005.jpg)
 
 
 
